@@ -1,6 +1,6 @@
-@PictureAPI_HostAddress = http://localhost:5039
+@PictureAPI_HostAddress = bigtoro-001-site2.anytempurl.com
 
-GET {{PictureAPI_HostAddress}}/weatherforecast/
+GET {{PictureAPI_HostAddress}}/Picture/
 Accept: application/json
 
 ###
